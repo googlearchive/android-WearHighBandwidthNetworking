@@ -10,8 +10,8 @@ high-bandwidth network operations if the bandwidth of currently available networ
 Introduction
 ------------
 
-On Android Wear, a high-bandwidth network is not always available, as the platform manages network
-connectivity with the goal of providing the best overall user experience, balancing network
+On Wear, a high-bandwidth network is not always available, as the platform manages
+network connectivity with the goal of providing the best overall user experience, balancing network
 bandwidth and maximizing device battery life. For use cases that require high-bandwidth network
 access, such as transporting large files or streaming media, we recommend that apps:
 
@@ -43,7 +43,7 @@ Pre-requisites
 --------------
 
 - Android SDK 27
-- Android Build Tools v27.0.2
+- Android Build Tools v27.0.3
 - Android Support Repository
 
 Screenshots
